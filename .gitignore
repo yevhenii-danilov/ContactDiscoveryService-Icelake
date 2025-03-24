@@ -18,3 +18,5 @@ c/proto/cdsi.h
 
 classes/
 dependency/
+
+.env
